@@ -81,3 +81,10 @@ This folder contains the complete project workflow, starting database connection
 
 4. **Full Project Content:**  
    Detailed workflow showcasing the complete analysis pipeline from raw data to insights.
+
+## Contact Information
+
+- **Name:** Dibya jyoti Biswal  
+- **Email:** dibyabiswal701@gmail.com 
+- **LinkedIn:** [Dibya jyoti Biswal LinkedIn](https://www.linkedin.com/in/dibya-jyoti-biswal-102856252/)  
+- **Portfolio:** [GitHub Portfolio](https://github.com/Dibya-Biswal-701/movies-IMDB-data-analysis-sql-master)  
